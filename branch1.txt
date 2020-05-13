@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 First line here
 second line here
-=======
 Brnach3 edit 1
 branch3 edit 2
->>>>>>> branch3
